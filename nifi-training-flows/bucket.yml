@@ -1,4 +1,8 @@
 flows:
+  849ee105-9a8f-474c-8159-0e8e002a999b: {ver: 1, file: 'Funnel,_Flowfile_Prioritization,_Flowfile_Expiration_Example.snapshot',
+    comments: 'Funnel, Flowfile Prioritization, Flowfile Expiration Example', author: anonymous,
+    created: 1605736059867, flowName: 'Funnel, Flowfile Prioritization, Flowfile Expiration
+      Example', flowDesc: 'Funnel, Flowfile Prioritization, Flowfile Expiration Example'}
   afef2533-7a96-40d6-bd61-465ad58a4dca: {ver: 1, file: Import_Template_Example.snapshot,
     comments: Import Template Example, author: anonymous, created: 1605735989474,
     flowName: Import Template Example, flowDesc: Import Template Example}
