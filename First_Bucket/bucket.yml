@@ -1,7 +1,0 @@
-flows:
-  07e88bee-dd49-42d2-82d7-770f2dc5dc82: {ver: 1, file: 'Funnel,_Flowfile_Prioritization,_Flowfile_Expiration_Example.snapshot',
-    comments: 'Funnel, Flowfile Prioritization, Flowfile Expiration Example', author: anonymous,
-    created: 1605736003095, flowName: 'Funnel, Flowfile Prioritization, Flowfile Expiration
-      Example', flowDesc: 'Funnel, Flowfile Prioritization, Flowfile Expiration Example'}
-layoutVer: 1
-bucketId: bf0cb559-3edc-4e55-96f8-8bc62699bd65
