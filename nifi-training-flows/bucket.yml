@@ -5,5 +5,9 @@ flows:
   8c73a198-bd9f-4e9e-ba30-c89c7fd38403: {ver: 1, file: CSV_to_JSON.snapshot, comments: CSV
       to JSON, author: anonymous, created: 1605735963823, flowName: CSV to JSON, flowDesc: CSV
       to JSON}
+  1a10c075-1975-4a6e-81c1-a559c43b6e02: {ver: 1, file: 'Controller_Services,_SQL,_Variable_Registry_Example.snapshot',
+    comments: 'Controller Services, SQL, Variable Registry Example', author: anonymous,
+    created: 1605736017673, flowName: 'Controller Services, SQL, Variable Registry
+      Example', flowDesc: 'Controller Services, SQL, Variable Registry Example'}
 layoutVer: 1
 bucketId: bd6a1cb1-05f2-411f-82a4-8bdd7686dbb0
